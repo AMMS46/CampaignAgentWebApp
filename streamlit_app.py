@@ -813,10 +813,10 @@ def render_features_section():
     # Section header
     st.markdown("""
     <div style="text-align: center; margin: 4rem 0 3rem 0;">
-        <h2 style="font-size: 2.5rem; font-weight: 700; color: #ffffff; margin-bottom: 1rem; line-height: 1.2;">
+        <h2 style="font-size: 2.5rem; font-weight: 700; color: #000000; margin-bottom: 1rem; line-height: 1.2;">
             Powered by Advanced AI
         </h2>
-        <p style="font-size: 1.125rem; color: #ffffff; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+        <p style="font-size: 1.125rem; color: #000000; max-width: 600px; margin: 0 auto; line-height: 1.6;">
             Our multi-agent system combines specialized AI experts to deliver 
             comprehensive marketing campaigns tailored to your needs.
         </p>
@@ -1320,7 +1320,7 @@ def render_agent_testing_section():
     
     st.markdown("""
     <div style="text-align: center; margin: 4rem 0 3rem 0;">
-        <h2 style="font-size: 2.5rem; font-weight: 700; color: #ffffff; margin-bottom: 1rem; line-height: 1.2;">
+        <h2 style="font-size: 2.5rem; font-weight: 700; color: #000000; margin-bottom: 1rem; line-height: 1.2;">
             🔬 Test Individual AI Agents
         </h2>
         <p style="font-size: 1.125rem; color: #ffffff; max-width: 600px; margin: 0 auto; line-height: 1.6;">
