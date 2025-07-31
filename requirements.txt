@@ -1,8 +1,7 @@
-streamlit==1.47.1
-plotly==5.17.0
-pandas==2.0.3
-crewai==0.28.8
-litellm==1.40.0
-openai==1.35.0
-requests==2.31.0
-pydantic==2.7.4
+streamlit
+plotly
+pandas
+crewai
+litellm
+openai
+requests 
