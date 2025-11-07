@@ -24,7 +24,7 @@ os.environ["GOOGLE_API_KEY"] = api_key
 os.environ["LITELLM_REQUEST_TIMEOUT"] = "120"
 os.environ["LITELLM_DROP_PARAMS"] = "true"
 
-model_options = ["gemini/gemini-1.5-flash", "gemini/gemini-pro", "gemini/gemini-1.5-pro"]
+model_options = ["gemini/gemini-2.5-flash"]
 
 print("🔄 Setting up Gemini models...")
 llm = None
